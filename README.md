@@ -1,4 +1,4 @@
-# DearMyBro_MinHyeok
+# WithMyBrother_MinHyeok
 친오빠랑 함께하는 오씨남매의 프로젝트 !
 저와 쟤의 포트폴리오를 관리할 수 있는 웹사이트를 제작하고자 합니다 !
 
